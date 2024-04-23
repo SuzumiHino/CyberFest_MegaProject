@@ -3,7 +3,9 @@
 This project is site of CyberFestTobolsk Project
 
 **URL**: <https://github.com/lkopik/MEGA-PROGECT.git>
+
 ---
+
 - **General Developer**: _Meleshkin Alexandr_
 
   email: <suzumihino08@gmail.com>
